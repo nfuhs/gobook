@@ -3,7 +3,7 @@ package main
 
 import (
 	"fmt"
-	"gobook/ch2/tempconv"
+	"github.com/nfuhs/gobook/ch2/tempconv"
 	"os"
 	"strconv"
 )
